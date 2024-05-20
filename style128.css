@@ -8,6 +8,10 @@
     scroll-behavior: smooth; 
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 header {
     background-color: #f0f0f0;
