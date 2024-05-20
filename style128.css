@@ -279,6 +279,16 @@ section {
     }
 
 }
+body {
+  font-size: 16px;
+}
+
+/* الأنماط للأجهزة الصغيرة (مثل الهواتف الذكية) */
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
 
 @media (max-width:641px){
     body{
